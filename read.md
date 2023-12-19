@@ -12,3 +12,5 @@ then... tyo data haru servicecreate(createTodoDto) eha bhitra jancha ra.. tesle 
 eti part le chai this.todoService. hamroo service bhitra chircha ra this.todoService.servicecreate(createTodoDto) eti le chai service bhitra ko servicecreate vanne function khojcha... then teslai return garcha..
 
 docker.. docker file .. docker compose.. docker swamp...
+
+nest g resource
